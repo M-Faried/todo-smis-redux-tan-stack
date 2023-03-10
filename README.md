@@ -4,9 +4,9 @@ This project is to show SMIS design pattern in action. SMIS design pattern is a 
 
 <br>
 
-> 👉 You can find the full explanation of SMIS Design Pattern in this article: **[SMIS Design Pattern](https://medium.com/@m.a.faried/smis-design-pattern-d725a7ad814c)**
->
 > 👉 Also, you can find explaining the purpose of this project in this article **[SMIS DP In Action]()**
+>
+> 👉 You can find the full explanation of SMIS Design Pattern in this article: **[SMIS Design Pattern](https://medium.com/@m.a.faried/smis-design-pattern-d725a7ad814c)**
 
 <br>
 
