@@ -1,0 +1,11 @@
+{
+  "name": "json-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server -w data/db.json -p 3500"
+  },
+  "author": "",
+  "license": "ISC"
+}
