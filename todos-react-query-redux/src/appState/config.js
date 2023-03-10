@@ -3,4 +3,4 @@ export const StateManagerTypes = {
     TanQuery: 1,
 }
 
-export const TodosStateManagerConfig = StateManagerTypes.Redux;
+export const TodosStateManagerConfig = StateManagerTypes.TanQuery;
