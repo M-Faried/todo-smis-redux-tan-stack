@@ -4,7 +4,7 @@ This project is to show SMIS design pattern in action. SMIS design pattern is a 
 
 <br>
 
-> 👉 Also, you can find explaining the purpose of this project in this article **[SMIS DP In Action]()**
+> 👉 You can find more about the purpose of this project in this article **[SMIS DP In Action]()**
 >
 > 👉 You can find the full explanation of SMIS Design Pattern in this article: **[SMIS Design Pattern](https://medium.com/@m.a.faried/smis-design-pattern-d725a7ad814c)**
 
@@ -14,7 +14,7 @@ This project is to show SMIS design pattern in action. SMIS design pattern is a 
 * If it is not already installed on your machine, you need to install json-server package using "npm i json-server -g"
 * Open a terminal window and cd into json-server folder.
 * Run the command "npm run start" to start the json server that will provide the data for the example.
-* To run the application with only Redux or the one with Redux and react-query, open a new terminal and cd into one of the folders accordingly.
+* To run the application with only Redux (phase-1) or the one with Redux and react-query (phase-2), open a new terminal and cd into one of the folders accordingly.
 * Run the comand "npm install" to install all the dependencies in either folder.
 * Run the command "npm run start".
 
@@ -22,7 +22,7 @@ This project is to show SMIS design pattern in action. SMIS design pattern is a 
 
 ## 🔬 Switching Between Redux & React Query
 
-If you are in the final project "todos-react-query-redux" and want to switch between the two state managers, open the file in the path "todos-react-query-redux\src\appState\config.js" and change the value of TodosStateManagerConfig to either of the 2 state managers.
+If you are in the final project "phase-2" and want to switch between the two state managers, open the file in the path "phase-2\src\appState\config.js" and change the value of TodosStateManagerConfig to either of the 2 state managers.
 
 <br>
 
