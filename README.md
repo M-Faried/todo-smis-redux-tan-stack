@@ -6,5 +6,16 @@ This project is to show SMIS design pattern in action. SMIS design pattern is a 
 
 👉 Also, you can find the article explaining the details of this project in this [link]()
 
+## 💻 Technologies, Patterns, & Packages
+👉 React
+
+👉 SMIS Design Pattern
+
+👉 Redux & Redux Tool Kit
+ 
+👉 react-query
+
+👉 React Font-Awesome
+
 ## 💳 Contact Me:
 You can send me an email on m.a.faried@gmail.com or chat me on my [LinkedIn](https://www.linkedin.com/in/mo-faried-0258a445/)
