@@ -1,5 +1,9 @@
 # 📐 SMIS Transition From Redux To TanStack/React Query
 
+<p align='center'>
+    <img src="assets\smis-dp-in-action.png" alt="panner" width="500"/>
+</p>
+
 This project is to show SMIS design pattern in action. SMIS design pattern is a patter to abstract the state manager of your application and ease the transition from one state manager to another with the minimum amount of code updates.
 
 <br>
