@@ -1,7 +1,7 @@
 import { Provider } from 'react-redux';
 import store from '../redux/store';
 
-const injectReduxStore = (WrappedComponent) => {
+const injectStateProvider = (WrappedComponent) => {
     return (props) => (
         <Provider store={store}>
             <WrappedComponent {...props} />
@@ -9,4 +9,4 @@ const injectReduxStore = (WrappedComponent) => {
     )
 }
 
-export default injectReduxStore;
+export default injectStateProvider;
