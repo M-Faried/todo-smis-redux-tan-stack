@@ -60,7 +60,7 @@ export const todosSlice = createSlice({
             state.isLoading = false;
             state.isError = false;
             state.error = null;
-            state.todos = action.payload;
+            state.todos = action.payload.sort((a, b) => b.id - a.id);
         },
         [loadTodos.rejected]: (state, action) => {
             state.isLoading = false;
