@@ -1,8 +1,10 @@
 import { StateManagerTypes, TodosStateManagerConfig } from '../config';
+
 import {
-    useTodosStateData as useTodosStateDataQry,
-    useTodosStateActions as useTodosStateActionsQry
-} from './todosStateSelectorQry';
+    useTodoQueryData as useTodosStateDataQry,
+    useTodoQueryActions as useTodosStateActionsQry
+} from "../queries/todoQueries";
+
 import {
     useTodosStateData as useTodosStateDataRdx,
     useTodosStateActions as useTodosStateActionsRdx
